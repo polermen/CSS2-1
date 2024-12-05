@@ -1,0 +1,122 @@
+#cards {
+    width: 1311px;
+    height: 761px;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+#header {
+    margin-top: 12px;
+    margin-left: 80px;
+    width: 980px;
+    height: 48px;
+    white-space: nowrap;
+}
+
+#logo {
+    padding: 13.489px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 171px;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    align-items: center;
+    color: #323232;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+nav ul {
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+  }
+
+  nav ul li {
+    display: inline-block; /* Makes list items horizontal */
+    margin: 0 20px; /* Adds spacing */
+  }
+
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+
+  #cont-us {
+    width: 105px;
+    height: 33px;
+    border: 1px solid #AC00FF;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: #AC00FF;
+    background-color: #E9D7FE;
+    text-align: right;
+    margin-left: 171px;
+  }
+
+#first {
+    margin-top: 136px;
+    margin-left: 214px;
+    width: 841px;
+    height: 314px;
+}
+
+#h2first {
+    color: #323232;
+    font-family: Impact;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 74px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#pfirst {
+    color: #323232;
+    font-family: "Inria Sans", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 24px;
+}
+
+#joinw {
+    width: 422px;
+    height: 54px;
+}
+
+#join {
+    border-radius: 8px;
+    background: #5C3BAE;
+    width: 204px;
+    height: 54px;
+    padding: 16px 24px;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 24px;
+}
+
+#loading {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#watch {
+    color: #4D3491;
+    font-family: "Inter", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+    
